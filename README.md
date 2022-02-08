@@ -1,6 +1,6 @@
 # RESTful APIs Example
 
-[![Python Version](https://img.shields.io/badge/python-3.68-brightgreen.svg)](https://python.org)
+[![Python Version](https://img.shields.io/badge/python-3.8-brightgreen.svg)](https://python.org)
 [![Django Version](https://img.shields.io/badge/django-4.0.1-brightgreen.svg)](https://djangoproject.com)
 
 ##  Esse Projeto foi criado para marcação de pontos de registros dos funcionários. 
